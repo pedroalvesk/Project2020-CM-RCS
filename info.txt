@@ -1,0 +1,20 @@
+
+[Requirimentos]
+
+	[Image Recognition]:
+		> Contagem de pessoas via webcam
+		> Verificação do uso de mascara via webcam
+		
+	[Sensores]:
+		> webcam
+		> raspberry pi
+		> sensor de temperatura
+	
+	
+	
+[I]
+	1. Raspberry Pi => processamento para analise de imagem realtime
+	2. Manda dados para uma API (cloud?)
+	3. Visualização desses dados in real time!
+	
+	

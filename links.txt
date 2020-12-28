@@ -1,0 +1,7 @@
+https://learn.adafruit.com/adafruit-amg8833-8x8-thermal-camera-sensor/pinouts
+
+https://learn.adafruit.com/adafruit-amg8833-8x8-thermal-camera-sensor/arduino-wiring-test
+
+https://eu.mouser.com/datasheet/2/315/panasonic_04262016_AMG88-1480161.pdf
+
+
