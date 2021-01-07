@@ -1,0 +1,10 @@
+
+# Update pip
+pip install --upgrade pip
+
+# Install tenserflow2
+pip install tensorflow
+
+# Install imutils
+pip install imutils
+
