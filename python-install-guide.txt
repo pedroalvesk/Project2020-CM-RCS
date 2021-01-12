@@ -2,6 +2,9 @@
 # Update pip
 pip install --upgrade pip
 
+# Install opencv
+pip install opencv-python
+
 # Install tenserflow2
 pip install tensorflow
 
