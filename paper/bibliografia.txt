@@ -1,0 +1,16 @@
+ Sensor de Temperatura - AMG8833
+
+https://eu.mouser.com/datasheet/2/315/panasonic_04262016_AMG88-1480161.pdf
+
+https://learn.adafruit.com/adafruit-amg8833-8x8-thermal-camera-sensor/pinouts
+
+https://learn.adafruit.com/adafruit-amg8833-8x8-thermal-camera-sensor/arduino-wiring-test
+
+
+Artigos:
+
+https://www.computer.org/csdl/proceedings-article/fg/1996/77130334/12OmNz2kqqG
+
+https://europepmc.org/article/med/30002290
+
+https://www.sciencedirect.com/science/article/pii/S2210670720308179
