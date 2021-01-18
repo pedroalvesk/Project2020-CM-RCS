@@ -9,8 +9,8 @@ float pixels[AMG88xx_PIXEL_ARRAY_SIZE];
 
 
 // WiFi parameters to be configured
-const char* ssid = "Vodafone-D7D1C9";
-const char* password = "Cat9f9jdf7";
+const char* ssid = "Vodafone :-)";
+const char* password = "casa1234";
 
 void setup(void)
 { 
